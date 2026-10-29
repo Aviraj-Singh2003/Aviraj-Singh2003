@@ -1,16 +1,16 @@
 <div align="center">
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=A855F7&center=true&vCenter=true&width=750&lines=Building+AI-Powered+systems;LLM+%7C+RAG+Open Ai API+%7C+Multi-model;React+%2B+JAVA+%2B+FastAPI+%2B+LangChain;Graduate+%7C+Noida;Open+to+SDE+%2F+AI+Engineering+roles" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=A855F7&center=true&vCenter=true&width=750&lines=Building+LLM+systems;RAG+%7C+ReAct+Agents+%7C+Multi-model;React+%2B+Java+%2B+FastAPI+%2B+LangChain;Graduate+%7C+Noida;Open+to+SDE+%2F+AI+Engineering+roles" />
 </p>
 
 <br/><br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdulrr25/)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdulr6503@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-6366F1?style=for-the-badge&logo=vercel&logoColor=white)](https://abdulrr25.vercel.app/)
-[![Twitter](https://img.shields.io/badge/Twitter-1D9BF0?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/AbdulRa39434709)
-[![HackerRank](https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black)](https://www.hackerrank.com/profile/CSA_2021B0121077)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]((https://www.linkedin.com/in/avirajsingh2003/))
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:avirajs2003@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-6366F1?style=for-the-badge&logo=vercel&logoColor=white)]( https://www.aviraj2003.vercel.app/)
+[![Twitter](https://img.shields.io/badge/Twitter-1D9BF0?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/AvirajS77220607)
+
 
 </div>
 
@@ -23,13 +23,12 @@
 <img align="right" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding gif"/>
 
 - 🤖 &nbsp; Building **AI-powered full-stack apps** — RAG pipelines, ReAct agents, multi-model LLM platforms
-- 🎓 &nbsp; **PG-DAC @ C-DAC Pune** · 900 hrs · **Grade A in Project Work**
 - 🏛️ &nbsp; **B.Tech CSE** @ ABES Engineering College · 2021–2025
 - 💼 &nbsp; Freelance dev — shipped production websites for real clients
-- 🏆 &nbsp; **BNB Chainlink Hackathon 2025** — AI legal assistant with on-chain verification
+- 🏆 &nbsp; **IIIT Delhi Hackathon 2024** — Soil Monitoring System
 - 🌱 &nbsp; Exploring **LangGraph**, multi-agent systems & fine-tuning
-- 📍 &nbsp; **Bangalore** · Open to SDE-1 / Frontend / AI Engineer roles
-- 📬 &nbsp; **abdulr6503@gmail.com**
+- 📍 &nbsp; **Noida** · Open to SDE / Frontend / AI Engineer roles
+- 📬 &nbsp; **avirajs2003@gmail.com**
 
 <br clear="right"/>
 
