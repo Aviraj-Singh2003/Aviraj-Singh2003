@@ -90,12 +90,12 @@
 
 <div align="center">
 
-### 🏠 RentRadar — AI-Powered Rental Search Platform
+### 🎬 Vidyra — AI-Powered Video Assistant Platform
 #### *Latest Project*
 
 </div>
 
-> **`Next.js`** · **`FastAPI`** · **`LangGraph`** · **`Groq API`** · **`Anakin Wire API`** · **`Python`** · **`SSE`** · **`TypeScript`**
+> **`Python`** · **`Langhchain`** · **`Whisper`** · **`Chroma DB`** · **`Hugging Face`** · **`Chat Misteral AI`** · **`RAG`** · **`Streamlit`**
 
 ```
 Type a plain-English query. Get a live-streamed brief with top listings, locality scores, Reddit pulse, price trends, and scam alerts.
