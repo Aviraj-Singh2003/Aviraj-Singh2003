@@ -125,14 +125,12 @@ Type a plain-English query. Get a live-streamed brief with top listings, localit
 > **`Next.js 14`** · **`TypeScript`** · **`Spring Boot`** · **`MySQL`** · **`JWT`** · **`Tailwind CSS`**
 
 ```
-Full-stack e-commerce with 110 seeded products, multi-payment checkout, and a Java backend — built end to end.
-```
+🚗 Find travel buddies heading your way. Get smart passenger matches, real-time connections, nearby pickup detection, and estimated fare splits — all in one place.```
 
-✅ &nbsp; **Spring Boot REST API** — clean layered architecture, Spring Security 7 with stateless JWT authentication
-✅ &nbsp; **110 seeded products** across 5 categories with filtering, sorting & full search
-✅ &nbsp; **Complete commerce flow** — cart, wishlist, and checkout supporting UPI · card · net banking · COD · wallet
-✅ &nbsp; **Next.js 14 frontend** — TypeScript, Tailwind CSS, responsive across all screen sizes
-
+✅ Smart Geospatial Matching — Matches nearby passengers travelling towards compatible destinations using the Haversine formula and Google Maps API.
+✅ Real-Time Ride Connections — WebSocket (STOMP) enables instant match notifications and in-app passenger chat.
+✅ Intelligent Fare Splitting — Estimates individual fare contributions to help commuters reduce cab expenses.
+✅ Secure Full-Stack Platform — Built with React.js, Java Spring Boot, Spring Security, JWT, and MySQL for secure passenger matching and management.
 <div align="center">
 
 [![Live Demo](https://img.shields.io/badge/🔗_Live_Demo-6366F1?style=for-the-badge)](https://clothing-website-2eqjww5yr-abdul-rahmans-projects-2dfb84bc.vercel.app/)
