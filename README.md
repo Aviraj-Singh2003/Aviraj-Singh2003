@@ -91,46 +91,19 @@
 <div align="center">
 
 ### 🎬 Vidyra — AI-Powered Video Assistant Platform
-#### *Latest Project*
 
 </div>
 
 > **`Python`** · **`Langhchain`** · **`Whisper`** · **`Chroma DB`** · **`Hugging Face`** · **`Chat Misteral AI`** · **`RAG`** · **`Streamlit`**
 
-```
-Type a plain-English query. Get a live-streamed brief with top listings, locality scores, Reddit pulse, price trends, and scam alerts.
-```
 
-✅ &nbsp; **Multi-agent pipeline** — LangGraph orchestrates parallel agents across 6 live data sources simultaneously
-✅ &nbsp; **Anakin Wire API + scrapers** — pulls live listings from NoBroker, OLX & Housing.com in real time
-✅ &nbsp; **Community intelligence** — Reddit pulse, Google News & Hacker News signals for neighbourhood insights
-✅ &nbsp; **Fraud detection** — AI-generated scam alerts and locality risk scores for every search result
-✅ &nbsp; **SSE streaming** — results stream token-by-token via Server-Sent Events as agents complete
-
-<div align="center">
-
-[![Live Demo](https://img.shields.io/badge/🔗_Live_Demo-6366F1?style=for-the-badge)](https://rentradar-smoky.vercel.app/)
-[![View Repo](https://img.shields.io/badge/📁_View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abdulrr25/RentRadar)
-
-</div>
-
----
-
-<div align="center">
-
-### 🛍️ Nova — AI-Powered E-Commerce Platform
-
-</div>
-
-> **`Next.js 14`** · **`TypeScript`** · **`Spring Boot`** · **`MySQL`** · **`JWT`** · **`Tailwind CSS`**
-
-```
 🚗 Find travel buddies heading your way. Get smart passenger matches, real-time connections, nearby pickup detection, and estimated fare splits — all in one place.```
 
 ✅ Smart Geospatial Matching — Matches nearby passengers travelling towards compatible destinations using the Haversine formula and Google Maps API.
 ✅ Real-Time Ride Connections — WebSocket (STOMP) enables instant match notifications and in-app passenger chat.
 ✅ Intelligent Fare Splitting — Estimates individual fare contributions to help commuters reduce cab expenses.
 ✅ Secure Full-Stack Platform — Built with React.js, Java Spring Boot, Spring Security, JWT, and MySQL for secure passenger matching and management.
+
 <div align="center">
 
 [![Live Demo](https://img.shields.io/badge/🔗_Live_Demo-6366F1?style=for-the-badge)](https://clothing-website-2eqjww5yr-abdul-rahmans-projects-2dfb84bc.vercel.app/)
@@ -143,7 +116,6 @@ Type a plain-English query. Get a live-streamed brief with top listings, localit
 <div align="center">
 
 ### 🤖 LLM Chat — Multi-Model AI Platform
-#### *Flagship AI Project*
 
 </div>
 
