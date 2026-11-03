@@ -122,7 +122,7 @@
 > **`FastAPI`** · **`React`** · **`LangChain`** · **`Groq API`** · **`FAISS`** · **`ChromaDB`** · **`Python`** · **`SSE`**
 
 ```
-Not a GPT wrapper. A full AI infrastructure platform — built piece by piece from scratch.
+🤖 Build smarter conversations with AI. Get context-aware responses, intelligent multi-turn interactions, conversation memory, and real-time streaming — all in one place.
 ```
 
 ✅ Context-Aware Conversations — Supports multi-turn conversations using conversation memory to maintain context and deliver relevant responses.
@@ -133,8 +133,7 @@ Not a GPT wrapper. A full AI infrastructure platform — built piece by piece fr
 <div align="center">
 
 [![Live Demo](https://img.shields.io/badge/🔗_Live_Demo-6366F1?style=for-the-badge)](https://llmchatmodels.vercel.app/)
-[![View Repo](https://img.shields.io/badge/📁_View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)]((https://github.com/Aviraj-Singh2003/LLM-Chatbot))
-
+[![View Repo](https://img.shields.io/badge/📁_View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Aviraj-Singh2003/LLM-Chatbot)
 
 </div>
 
@@ -142,75 +141,27 @@ Not a GPT wrapper. A full AI infrastructure platform — built piece by piece fr
 
 <div align="center">
 
-### 🎨 Interior Designer Website — Freelance Client Project
+### 🚗 RideMate — AI-Powered Cab Pooling & Passenger Matching Platform
 
 </div>
 
-> **`Next.js`** · **`Tailwind CSS`** · **`Framer Motion`** · **`JavaScript`** · **`Vercel`**
+> **`Java`** · **`Spring Boot`** · **`JWT`** · **`React`** · **`MySQL`** · **`WebSocket (STOMP)`** · **`Google Maps API`** · **`RAG`**
 
-```
-Real client. Real deadline. Live in production — actively used for business today.
-```
+```🚗 Find commuters travelling in your direction. Get intelligent passenger matching, nearby pickup detection, real-time chat, instant match notifications, and estimated fare splits — all in one place.```
 
-✅ &nbsp; Scroll-triggered animations & cinematic transitions · mobile-first fully responsive design
-✅ &nbsp; End-to-end ownership — requirements → development → deployment → client handoff
+✅ Smart Geospatial Matching — Matches nearby passengers travelling towards compatible destinations using the Haversine formula and Google Maps API.
+✅ Real-Time Ride Connections — WebSocket (STOMP) enables instant match notifications and in-app passenger chat.
+✅ Intelligent Fare Splitting — Estimates individual fare contributions to help commuters reduce cab expenses.
+✅ Secure Full-Stack Platform — Built with React.js, Java Spring Boot, Spring Security, JWT, and MySQL for secure passenger matching and management.
 
 <div align="center">
 
 [![Live Demo](https://img.shields.io/badge/🔗_Live_Demo-0F172A?style=for-the-badge)](https://www.newrangolibuilders.in/)
-[![View Repo](https://img.shields.io/badge/📁_View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abdulrr25)
+[![View Repo](https://img.shields.io/badge/📁_View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Aviraj-Singh2003/RideMate)
 
 </div>
 
 ---
-
-<div align="center">
-
-### 🎓 TEACHO — Decentralized Online Teaching Platform
-#### *Final Year Major Project — B.Tech CSE*
-
-</div>
-
-> **`Next.js`** · **`TypeScript`** · **`Solidity`** · **`Superfluid Protocol`** · **`Tailwind CSS`** · **`Huddle01`**
-
-```
-Pay-per-second education — students only pay for time actually spent learning.
-```
-
-✅ &nbsp; **Pay-per-second streaming** — Superfluid streams tuition in real time · instructors earn as students watch
-✅ &nbsp; **Gig-based marketplace** — instructors list sessions · students purchase per-class, not subscription
-✅ &nbsp; **Live video classes** — Huddle01 integration for real-time instructor–student video sessions
-
-<div align="center">
-
-[![View Repo](https://img.shields.io/badge/📁_View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abdulrr25/Major-Project)
-
-</div>
-
----
-
-<div align="center">
-
-### ⚖️ LegalLama — AI-Powered Legal Research Assistant
-#### *BNB Chainlink Hackathon 2025*
-
-</div>
-
-> **`Next.js`** · **`Node.js`** · **`PostgreSQL`** · **`OpenAI API`** · **`Solidity`** · **`Chainlink CCIP`** · **`RAG`**
-
-```
-Solving the accuracy problem (RAG) + the trust problem (blockchain) for AI-generated legal responses.
-```
-
-✅ &nbsp; **RAG over legal datasets** — semantic search grounds every answer in real documents, not hallucinations
-✅ &nbsp; **On-chain verification** — AI response hashes stored on Solidity smart contract · tamper-proof audit trail
-✅ &nbsp; **Cross-chain ops** — Chainlink CCIP for interoperability across blockchain networks
-
-<div align="center">
-
-[![View Repo](https://img.shields.io/badge/📁_View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abdulrr25/legal-llama)
-
-</div>
 
 <br/>
 
