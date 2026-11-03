@@ -156,7 +156,7 @@
 
 <div align="center">
 
-[![Live Demo](https://img.shields.io/badge/🔗_Live_Demo-0F172A?style=for-the-badge)](https://www.newrangolibuilders.in/)
+[![Live Demo](https://img.shields.io/badge/🔗_Live_Demo-6366F1?style=for-the-badge)](https://www.newrangolibuilders.in/)
 [![View Repo](https://img.shields.io/badge/📁_View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Aviraj-Singh2003/RideMate)
 
 </div>
