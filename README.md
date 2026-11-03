@@ -97,17 +97,17 @@
 > **`Python`** · **`Langhchain`** · **`Whisper`** · **`Chroma DB`** · **`Hugging Face`** · **`Chat Misteral AI`** · **`RAG`** · **`Streamlit`**
 
 
-🚗 Find travel buddies heading your way. Get smart passenger matches, real-time connections, nearby pickup detection, and estimated fare splits — all in one place.```
+```🎬 Turn lengthy videos into searchable knowledge. Get AI-powered transcriptions, intelligent summaries, semantic search, and instant answers to your video-related questions — all in one place.```
 
-✅ Smart Geospatial Matching — Matches nearby passengers travelling towards compatible destinations using the Haversine formula and Google Maps API.
-✅ Real-Time Ride Connections — WebSocket (STOMP) enables instant match notifications and in-app passenger chat.
-✅ Intelligent Fare Splitting — Estimates individual fare contributions to help commuters reduce cab expenses.
-✅ Secure Full-Stack Platform — Built with React.js, Java Spring Boot, Spring Security, JWT, and MySQL for secure passenger matching and management.
+✅ AI-Powered Transcription — Converts video audio into searchable text using OpenAI Whisper and Sarvam AI for speech-to-text processing.
+✅ Semantic Embeddings & Search — Uses Hugging Face embeddings to transform transcripts into vector representations for intelligent semantic retrieval.
+✅ Intelligent Summarization — Integrates Mistral AI to generate concise, context-aware summaries of lengthy video content.
+✅ RAG-Based Video Q&A — Implements Retrieval-Augmented Generation (RAG) to answer user questions using relevant video transcript segments and contextual information.management.
 
 <div align="center">
 
 [![Live Demo](https://img.shields.io/badge/🔗_Live_Demo-6366F1?style=for-the-badge)](https://clothing-website-2eqjww5yr-abdul-rahmans-projects-2dfb84bc.vercel.app/)
-[![View Repo](https://img.shields.io/badge/📁_View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abdulrr25/Nova-AIStoreAgent)
+[![View Repo](https://img.shields.io/badge/📁_View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Aviraj-Singh2003/AI-Video-Assistant-Platform)
 
 </div>
 
@@ -125,15 +125,15 @@
 Not a GPT wrapper. A full AI infrastructure platform — built piece by piece from scratch.
 ```
 
-✅ &nbsp; **Multi-model inference** — switch between LLaMA 3.3, Mixtral & Gemma in one UI · real-time SSE streaming
-✅ &nbsp; **RAG pipeline** — upload PDFs or URLs → chunked → embedded → FAISS vector search → grounded answers
-✅ &nbsp; **ReAct AI Agent** — reasons across 6 live tools: weather · web search · doc retrieval · calculator · datetime · Python REPL
-✅ &nbsp; **Production backend** — FastAPI with rate limiting, CORS, clean REST API design
+✅ Context-Aware Conversations — Supports multi-turn conversations using conversation memory to maintain context and deliver relevant responses.
+✅ LLM Integration — Integrates OpenAI and Google Gemini APIs to generate intelligent, context-aware responses.
+✅ Prompt Engineering — Uses optimized system prompts and conversation history to improve response accuracy and relevance.
+✅ Real-Time Chat Interface — Built with React.js and FastAPI, featuring streaming responses for smooth, low-latency interactions.
 
 <div align="center">
 
 [![Live Demo](https://img.shields.io/badge/🔗_Live_Demo-6366F1?style=for-the-badge)](https://llmchatmodels.vercel.app/)
-[![View Repo](https://img.shields.io/badge/📁_View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abdulrr25)
+[![View Repo](https://img.shields.io/badge/📁_View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)]((https://github.com/Aviraj-Singh2003/LLM-Chatbot))
 
 
 </div>
