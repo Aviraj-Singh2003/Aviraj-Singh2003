@@ -167,7 +167,7 @@
 
 <div align="center">
 
-> 🗂️ &nbsp; **More projects** available on the **[Repositories tab](https://github.com/abdulrr25?tab=repositories)**
+> 🗂️ &nbsp; **More projects** available on the **[Repositories tab](https://github.com/Aviraj-Singh2003?tab=repositories)**
 
 </div>
 
@@ -179,19 +179,19 @@
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=abdulrr25&theme=tokyonight" height="170"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Aviraj-Singh2003&theme=tokyonight" height="170"/>
 &nbsp;
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=abdulrr25&theme=tokyonight" height="170"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Aviraj-Singh2003&theme=tokyonight" height="170"/>
 &nbsp;
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=abdulrr25&theme=tokyonight" height="170"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Aviraj-Singh2003&theme=tokyonight" height="170"/>
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=abdulrr25&theme=tokyonight&hide_border=true&background=0D1117&ring=A855F7&fire=6366F1&currStreakLabel=A855F7&sideLabels=C9D1D9&dates=C9D1D9" height="170"/>
+<img src="https://streak-stats.demolab.com?user=Aviraj-Singh2003&theme=tokyonight&hide_border=true&background=0D1117&ring=A855F7&fire=6366F1&currStreakLabel=A855F7&sideLabels=C9D1D9&dates=C9D1D9" height="170"/>
 
 <br/><br/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abdulrr25&theme=tokyonight" width="96%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aviraj-Singh2003&theme=tokyonight" width="96%"/>
 
 <br/><br/>
 
@@ -209,7 +209,6 @@
 
 | 🏛️ | Program | Period | Result |
 |:---:|---|:---:|:---:|
-| ![CDAC](https://img.shields.io/badge/C--DAC_Pune-6366F1?style=flat-square) | PG Diploma in Advanced Computing (PG-DAC) | Aug 2025 – Feb 2026 | Grade B · **⭐ Grade A in Project** |
 | ![ABES](https://img.shields.io/badge/ABES_Engg-A855F7?style=flat-square) | B.Tech — Computer Science & Engineering | 2021 – 2025 | Graduate |
 | ![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=flat-square&logo=hackerrank&logoColor=white) | JavaScript · Problem Solving · Java · SQL | — | ✅ Certified |
 | ![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=flat-square&logo=cisco&logoColor=white) | Cybersecurity Essentials | — | ✅ Certified |
@@ -224,7 +223,7 @@
 
 | 🔨 Improving | 📖 Learning | 🎯 Goal |
 |:---:|:---:|:---:|
-| RentRadar — adding auth & saved searches | LangGraph · Multi-agent systems | SDE-1 / AI Engineer role at a product startup |
+| RideMate— passenger authentication & ride matching | Spring Boot · Geospatial algorithms | SDE / AI Engineer role at a product startup |
 | LLM Chat — adding memory, history & auth | Open-source LLM fine-tuning | Build in public — ship, share, iterate |
 
 </div>
